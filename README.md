@@ -1,4 +1,4 @@
-# 📧 Spam Email Detector 🚫
+# 📧 Spam Email Detector
 
 This project uses **Machine Learning + NLP** to classify messages/emails as **Spam** or **Not Spam (Ham)**.
 
@@ -28,4 +28,3 @@ This project uses **Machine Learning + NLP** to classify messages/emails as **Sp
 
 ---
 
-## 📂 Project Structure
